@@ -13,7 +13,7 @@ tags:
 
 # Wordpress детям не игрушка!
 
-В последний раз я [вёл блог в 13 лет](https://github.com/MacOSO/our-stories/blob/master/stories/MacOSO.md). Мне нравился тот блог... по крайней мере как он выглядел. И я выбрал тему для Wordpress в стиле MacOS. Выглядело это как-то так:  
+В последний раз я [вёл блог в 13 лет \[0\]][0]. Мне нравился тот блог... по крайней мере как он выглядел. И я выбрал тему для Wordpress в стиле MacOS. Выглядело это как-то так:  
 
 ![iTheme2](http://macoso.blur.tech/images/posts/2019/hello-world/1.jpg)  
 
