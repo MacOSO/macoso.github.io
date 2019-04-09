@@ -1,7 +1,7 @@
-.commento-submit-button {
+.commento-root .commento-submit-button {
     background: #495057;
 }
-.commento-round-check {
+.commento-root .commento-round-check input[type="checkbox"]:checked + label::before, .commento-root .commento-round-check input[type="radio"]:checked + label::before {
     background: #495057;
     border: 1px solid #5a6066;
 }
