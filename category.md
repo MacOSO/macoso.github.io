@@ -5,7 +5,7 @@ permalink: /category/
 ---
 
 <header>
-    <h1>Category List</h1>
+    <h1>Список категорий</h1>
 </header>
 
 <ul class="tag-box inline">
