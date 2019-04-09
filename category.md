@@ -1,12 +1,8 @@
 ---
 layout: blog
-title: "Category List"
+title: "Список категорий"
 permalink: /category/
 ---
-
-<header>
-    <h1>Список категорий</h1>
-</header>
 
 <ul class="tag-box inline">
 {% assign list = site.tags | sort %}
