@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-
+<script src="https://cdn.commento.io/js/count.js"></script>
 <div class="post" itemscope itemtype="http://schema.org/Article">
   <link itemprop="mainEntityOfPage" href="http://macoso.blur.tech/" />
   <header class="post-header">
@@ -11,6 +11,8 @@ layout: page
         {% if page.meta %} • {{ page.meta }}{% endif %}
         •
         {% for category in page.tags %}<span><a href="http://macoso.blur.tech/category/#{{ category }}" class="reserved">{{ category }}</a>{% if forloop.last != true %},{% endif %}</span>{% endfor %}
+        •
+        <a href="http://macoso.blur.tech{{ post.url }}#commento"></a>
     </p>
   </header>
 
