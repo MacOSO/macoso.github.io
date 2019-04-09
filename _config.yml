@@ -1,7 +1,6 @@
 # Site settings
 title: "macoso"
 bye_message: "Thx!"
-baseurl: ""
 url: "https://macoso.blur.tech/"
 disqus: macoso
 
