@@ -1,6 +1,6 @@
 # Site settings
 title: "macoso"
-bye_message: "Thx!"
+bye_message: "/dev/null"
 baseurl: "/"
 url: "http://macoso.blur.tech"
 disqus: macoso
