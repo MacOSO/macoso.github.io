@@ -3,7 +3,7 @@ layout: blog
 title: "Публикации в блоге"
 permalink: /blog/
 ---
-<script async src="https://cdn.commento.io/js/count.js"></script>
+<script defer src="https://cdn.commento.io/js/count.js"></script>
 <ul class="posts">
     {% for post in site.categories.blog %}
         <li>
