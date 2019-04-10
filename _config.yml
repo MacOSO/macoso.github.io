@@ -22,3 +22,23 @@ permalink: /:categories/:title/
 # Plugins
 plugins:
   - jekyll-sitemap
+  - jekyll-timeago
+  - jekyll-twitter-plugin
+  - jemoji
+  - jekyll-seo-tag
+  - jekyll-admin
+jekyll_timeago:
+  depth: 2
+  default_locale: 'ru'
+  fallbacks: true
+twitter:
+    username: batyshkaLenin
+    card: summary
+social:
+  name: Александр Сидоренко
+  links:
+    - https://twitter.com/batyshkaLenin
+    - https://vk.com/alexandr_sidorenko
+    - http://instagram.com/alexander_sidorenko/
+    - http://github.com/MacOSO
+lang: ru_RU
