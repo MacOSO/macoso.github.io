@@ -22,17 +22,9 @@ permalink: /:categories/:title/
 # Plugins
 plugins:
   - jekyll-sitemap
-  - jekyll-timeago
   - jekyll-twitter-plugin
   - jemoji
   - jekyll-seo-tag
-jekyll_timeago:
-  depth: 2
-  default_locale: 'ru'
-  fallbacks: true
-  available_locales:
-    - 'ru'
-    - 'en'
 twitter:
     username: batyshkaLenin
     card: summary
